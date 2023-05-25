@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "roypromax",
+      "email": "roy@gmail.com",
+      "password": "roy@123",
+      "isDoctor": false
+    },
+    {
+      "username": "khemu",
+      "email": "khemu@gmail.com",
+      "password": "khemu@123",
+      "isDoctor": false,
+      "id": 2
+    },
+    {
+      "username": "pros",
+      "email": "pros@gmail.com",
+      "password": "pros@123",
+      "isDoctor": true,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "10",
+      "location": "Los Angeles",
+      "date": "2023-05-26T16:36",
+      "slots": "2",
+      "fee": "150",
+      "id": 1
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "2023-05-28T18:58",
+      "slots": "1",
+      "fee": "100",
+      "id": 2
+    }
+  ]
+}
